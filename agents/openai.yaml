@@ -1,0 +1,4 @@
+interface:
+  display_name: "黑墨金赭肖像"
+  short_description: "将人物照片转绘为暖白纸底、黑墨干笔与金赭阴影的手绘肖像"
+  default_prompt: "使用 $nobel-ink-gold-portrait，将我提供的人物照片转换为诺贝尔头像参考中的黑墨金赭手绘风格，保留人物长相。"
