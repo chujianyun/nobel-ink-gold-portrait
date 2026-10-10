@@ -6,15 +6,15 @@
 
 ## 效果展示
 
-下面是同一张照片的实际转换结果，保留了眼镜、微笑、抱臂姿势和手表。
+下面展示原照片的墨镜版本与实际转绘结果。转绘时保留了人物的微笑、抱臂姿势和手表。
 
 <table>
   <tr>
-    <th>原始照片（眼镜区域已打码）</th>
+    <th>原始照片（墨镜展示版）</th>
     <th>黑墨金赭手绘肖像</th>
   </tr>
   <tr>
-    <td align="center"><img src="assets/examples/portrait-original.jpg" width="320" alt="眼镜和眼睛区域已打码的原始人物照片"></td>
+    <td align="center"><img src="assets/examples/portrait-original.jpg" width="320" alt="将透明眼镜替换为墨镜的原始人物照片展示版"></td>
     <td align="center"><img src="assets/examples/portrait-ink-gold.png" width="320" alt="保留人物身份与姿势的黑墨金赭手绘效果"></td>
   </tr>
 </table>
