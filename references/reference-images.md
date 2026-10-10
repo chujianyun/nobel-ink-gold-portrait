@@ -6,13 +6,13 @@
 
 | 文件 | 可观察特征 | 适合观察 |
 |---|---|---|
-| [reference-01.webp](../assets/style-references/reference-01.webp) | 圆框眼镜、短胡须、侧分短发、衬衫 | 眼镜粗线、胡须短笔触、颈部金色 |
-| [reference-02.webp](../assets/style-references/reference-02.webp) | 粗方框眼镜、稀疏短发、微笑、西装领带 | 五官留白、眼下金色、衣服线稿 |
-| [reference-03.webp](../assets/style-references/reference-03.webp) | 中长直发、粗框眼镜、头部轻微倾斜、围巾 | 发束飞白、偏转视角、下颌色块 |
-| [reference-04.webp](../assets/style-references/reference-04.webp) | 蓬松波浪短发、细框眼镜、耳环、外套 | 浓黑与纸白发束、细线眼镜、脸侧金色 |
-| [reference-05.webp](../assets/style-references/reference-05.webp) | 无眼镜、波浪短发、胡须、开领衬衫 | 干笔头发、胡须疏密、自然表情 |
-| [reference-06.webp](../assets/style-references/reference-06.webp) | 无眼镜、侧分短发、西装领带 | 大片面部留白、颈部色块、稀疏服装线 |
-| [reference-07.webp](../assets/style-references/reference-07.webp) | 矩形眼镜、向后梳发、开领衬衫 | 发丝走向、鼻侧色块、下颌阴影 |
-| [reference-08.webp](../assets/style-references/reference-08.webp) | 细框眼镜、稀疏短发、露齿微笑、衬衫 | 牙齿纸白、颈部金赭块、嘴角墨线 |
+| [reference-01.webp](../assets/reference-01.webp) | 圆框眼镜、短胡须、侧分短发、衬衫 | 眼镜粗线、胡须短笔触、颈部金色 |
+| [reference-02.webp](../assets/reference-02.webp) | 粗方框眼镜、稀疏短发、微笑、西装领带 | 五官留白、眼下金色、衣服线稿 |
+| [reference-03.webp](../assets/reference-03.webp) | 中长直发、粗框眼镜、头部轻微倾斜、围巾 | 发束飞白、偏转视角、下颌色块 |
+| [reference-04.webp](../assets/reference-04.webp) | 蓬松波浪短发、细框眼镜、耳环、外套 | 浓黑与纸白发束、细线眼镜、脸侧金色 |
+| [reference-05.webp](../assets/reference-05.webp) | 无眼镜、波浪短发、胡须、开领衬衫 | 干笔头发、胡须疏密、自然表情 |
+| [reference-06.webp](../assets/reference-06.webp) | 无眼镜、侧分短发、西装领带 | 大片面部留白、颈部色块、稀疏服装线 |
+| [reference-07.webp](../assets/reference-07.webp) | 矩形眼镜、向后梳发、开领衬衫 | 发丝走向、鼻侧色块、下颌阴影 |
+| [reference-08.webp](../assets/reference-08.webp) | 细框眼镜、稀疏短发、露齿微笑、衬衫 | 牙齿纸白、颈部金赭块、嘴角墨线 |
 
 推荐起点：无眼镜主体可选 05 + 06；有眼镜主体可选 01 + 07；较长头发主体可选 03 + 04。可追加一张需要的笔法参考，不要求参考人物与主体年龄或性别相同。

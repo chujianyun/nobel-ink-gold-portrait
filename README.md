@@ -14,14 +14,14 @@
     <th>黑墨金赭手绘肖像</th>
   </tr>
   <tr>
-    <td align="center"><img src="assets/examples/portrait-original.jpg" width="320" alt="将透明眼镜替换为墨镜的原始人物照片展示版"></td>
-    <td align="center"><img src="assets/examples/portrait-ink-gold.png" width="320" alt="保留人物身份与姿势的黑墨金赭手绘效果"></td>
+    <td align="center"><img src="assets/portrait-original.jpg" width="320" alt="将透明眼镜替换为墨镜的原始人物照片展示版"></td>
+    <td align="center"><img src="assets/portrait-ink-gold.png" width="320" alt="保留人物身份与姿势的黑墨金赭手绘效果"></td>
   </tr>
 </table>
 
 也可以按头像上传要求调整为 **1:1 方图**。下面这个示例为 **1254 × 1254 像素，PNG 格式，约 2.24 MB**，保留完整人物并扩展两侧纸纹背景。
 
-<img src="assets/examples/portrait-square.png" width="400" alt="1:1 方形黑墨金赭肖像示例">
+<img src="assets/portrait-square.png" width="400" alt="1:1 方形黑墨金赭肖像示例">
 
 ## 安装
 
@@ -37,6 +37,8 @@ cp -R nobel-ink-gold-portrait/agents nobel-ink-gold-portrait/references nobel-in
 ```
 
 以上命令适用于首次安装。已有同名技能时，先检查并备份本地修改，再更新。安装后如当前会话未发现技能，开启新会话加载。
+
+通过 Skill 包导入时，包内根目录直接放置 `SKILL.md`，资源只使用一层目录：`agents/文件`、`references/文件`、`assets/文件`。图片直接存放在 `assets/` 下，不再嵌套子目录；打包时不包含 `.git/` 或额外的外层文件夹。
 
 ## 使用
 
@@ -92,7 +94,7 @@ cp -R nobel-ink-gold-portrait/agents nobel-ink-gold-portrait/references nobel-in
     <th>微信</th>
   </tr>
   <tr>
-    <td align="center"><img src="assets/contact/official-account-qr.jpg" width="220" alt="公众号二维码"></td>
-    <td align="center"><img src="assets/contact/wechat-qr.png" width="220" alt="微信联系二维码"></td>
+    <td align="center"><img src="assets/official-account-qr.jpg" width="220" alt="公众号二维码"></td>
+    <td align="center"><img src="assets/wechat-qr.png" width="220" alt="微信联系二维码"></td>
   </tr>
 </table>
