@@ -10,11 +10,11 @@
 
 <table>
   <tr>
-    <th>原始照片</th>
+    <th>原始照片（眼镜区域已打码）</th>
     <th>黑墨金赭手绘肖像</th>
   </tr>
   <tr>
-    <td align="center"><img src="assets/examples/portrait-original.jpg" width="320" alt="原始人物照片：戴眼镜、微笑、抱臂"></td>
+    <td align="center"><img src="assets/examples/portrait-original.jpg" width="320" alt="眼镜和眼睛区域已打码的原始人物照片"></td>
     <td align="center"><img src="assets/examples/portrait-ink-gold.png" width="320" alt="保留人物身份与姿势的黑墨金赭手绘效果"></td>
   </tr>
 </table>
