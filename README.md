@@ -73,6 +73,15 @@ cp -R nobel-ink-gold-portrait/agents nobel-ink-gold-portrait/references nobel-in
 
 完整执行说明见 [SKILL.md](SKILL.md)，详细画法见 [视觉规范](references/visual-style.md)。
 
+## 作者
+
+**悟鸣**
+
+- 浙江省人工智能专家服务团专家
+- 杭州市人工智能学会入口专家
+- 千问办公大使
+- Qoder 企业培训大使
+
 ## 联系方式
 
 关注公众号，或扫码添加微信交流。
